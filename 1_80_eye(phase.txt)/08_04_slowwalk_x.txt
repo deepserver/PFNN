@@ -1,0 +1,8 @@
+[3, 'right']
+[19, 'left']
+[62, 'right']
+[98, 'left']
+[139, 'right']
+[183, 'left']
+[218, 'right']
+[243, 'end']

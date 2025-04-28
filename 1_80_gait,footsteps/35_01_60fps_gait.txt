@@ -1,0 +1,3 @@
+1 stand
+10 walk
+180 walk
