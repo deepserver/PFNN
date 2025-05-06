@@ -1,7 +1,6 @@
-발표영상은 아래 유튜브링크에 있습니다.
-https://www.youtube.com/watch?v=kHCK4kMwv8U
+발표영상 https://www.youtube.com/watch?v=kHCK4kMwv8U
 
-아래느 코드 설명입니다.
+코드 설명입니다.
 
 1. bvh_viewer_code.py BVH 뷰어코드 제작
 모션캡쳐 된 BVH 파일을 OpenGL로 렌더링하는 스크립트입니다. 트리구조의 BVH 파일을 읽어들이고, wxpython으로 사용자의 입력값을 처리합니다.
